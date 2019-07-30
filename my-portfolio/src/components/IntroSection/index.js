@@ -15,7 +15,6 @@ function IntroSection() {
                 <p class="lead" id="hobbies"> Musician</p>
                 <p class="lead" id="hobbies"> Traveler</p>
                 <p class="lead" id="hobbies"> Developer.</p>
-
             </div>
         </div>
 

@@ -33,7 +33,7 @@ class ProjectSection extends React.Component {
                         alt="Generic placeholder"
                     />
                     <Media.Body>
-                        <h5>Basic Beaches</h5>
+                        <h5> Basic Chicago Beaches</h5>
                         <p>
                         A web based application that allows the client to select which popular beach they want to attend based on water quality, current weather conditions, and restaurants nearby. As the person in charge of the front end I was responsible for displaying and formatting the information to allow for an accessible and appealing client experience.
                         </p>
