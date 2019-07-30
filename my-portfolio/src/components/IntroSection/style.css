@@ -1,0 +1,23 @@
+#introSection{
+    background: url("./images/IMG_0509.jpg") ;
+    background-size: cover;
+    min-width: 100%;
+}
+#name{
+    font-size: 7em;
+    color:white;
+    font-family: 'Bungee Shade', cursive;
+    text-align: center;
+    margin-left: 0%;
+    margin-top:0%; 
+}
+
+#hobbies{
+    color:#18222d;
+    ;
+    font-family: 'Bungee Inline', cursive;
+    font-size: 4em;
+    text-align: right;
+    margin-top: 5%;
+    margin-left: 75%;
+}

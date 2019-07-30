@@ -1,0 +1,35 @@
+#aboutSection{
+background-color: #18222d;
+color: white;
+font-family: 'Open Sans', sans-serif;
+}
+#aboutMe{
+    margin-left: 5%;
+}
+#aboutMeTitle{
+    font-family: 'Bungee Shade', cursive;
+}
+#resumeRow{
+    margin-left: 20%;
+}
+#resumeTitle{
+    font-family: 'Bungee Shade', cursive;
+    margin-left: 25%;
+}
+#nwDiv{
+    margin:25px;
+}
+#teacherDiv{
+    margin: 25px;
+}
+#sbDiv{
+    margin: 25px;
+}
+#header2{
+    margin-left: 25%;
+    
+}
+#header3{
+    margin-left: 25%;
+}
+

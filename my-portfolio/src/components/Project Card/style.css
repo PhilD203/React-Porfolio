@@ -1,10 +1,10 @@
 .card {
     background: #fff;
     border-radius: 2px;
-    height: 185px;
+    height: 300px;
     margin: 10px;
     position: relative;
-    width: 185px;
+    width: 300px;
     box-shadow: 0 3px 6px #999, 0 3px 6px #999;
     text-align: left;
   }

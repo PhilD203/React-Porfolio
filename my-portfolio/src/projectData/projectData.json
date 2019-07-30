@@ -1,17 +1,17 @@
 [
     {
         "id": 1,
-        "name": "Luke SkyWalker",
-        "image":"https://www.black-leatherjacket.com/image/cache/data/star-wars/luke-skywalker-the-empire-strike-back-hoth-jacket-900x900.jpg"
+        "name": "Basic Beaches",
+        "image":"https://img.traveltriangle.com/blog/wp-content/uploads/2018/10/cover-for-beach-places-in-chicago.jpg"
     },
     {
         "id": 2,
-        "name": "Han Solo",
-        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-H2VOBGxrRKs4kY6dDMEZ3vlfsvEdhQfL7r0rNbk40a5qrZlTcg"
+        "name": "WollyBully",
+        "image":"https://agile-wildwood-70962.herokuapp.com/assets/boxer-1294352.svg"
     },
     {
         "id": 3,
-        "name": "Princess Leia",
+        "name": "Galaxy Click",
         "image":"https://vignette.wikia.nocookie.net/padmeamidala/images/d/db/4116398_f520.jpg/revision/latest?cb=20130403202521"
     },
     {
